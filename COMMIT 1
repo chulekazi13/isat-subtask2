@@ -1,0 +1,4 @@
+add basic menu-driven program structure
+- Added main loop with 6 menu options
+- Implemented user input for menu choice
+- Added placeholder stubs for conversion functions
