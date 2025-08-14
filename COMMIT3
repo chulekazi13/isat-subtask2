@@ -1,0 +1,4 @@
+ implement binary to decimal and decimal to hexadecimal conversions
+- Added binaryToDecimal function with input validation
+- Added decimalToHexadecimal function
+- Integrated into menu options 2 and 3
