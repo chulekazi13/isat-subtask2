@@ -1,0 +1,4 @@
+implement decimal to binary conversion
+- Added decimalToBinary function using bitset
+- Removed leading zeros from binary output
+- Integrated function into menu option 1
